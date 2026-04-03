@@ -1,6 +1,6 @@
-# 📊 E-commerce Sales & Fulfilment Analytics Dashboard (Power BI)
+# E-commerce Sales & Fulfilment Analytics Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive **Power BI dashboard** designed to analyze e-commerce order performance across **product categories, shipping states, fulfilment type, courier status, service levels, size demand, and monthly trends**.
 
@@ -14,7 +14,7 @@ The dashboard enables quick business insights into:
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 The dataset contains transactional order-level information with key fields such as:
 
@@ -27,7 +27,7 @@ The dataset contains transactional order-level information with key fields such 
 
 ---
 
-## 🎯 Key KPIs Tracked
+## Key KPIs Tracked
 
 The dashboard focuses on business-critical KPIs such as:
 
@@ -45,7 +45,7 @@ The dashboard focuses on business-critical KPIs such as:
 
 ---
 
-## 📈 Dashboard Pages / Visuals Included
+## Dashboard Pages / Visuals Included
 
 The report includes the following analysis views:
 
@@ -97,7 +97,7 @@ The report includes the following analysis views:
 
 ---
 
-## 🔍 Key Insights (Findings)
+## Key Insights (Findings)
 
 * **Set and Kurta** are the strongest demand-driving categories, contributing the highest order volume. 
 * **Maharashtra and Karnataka** are the top revenue-generating states, making them high-priority regions for operations and inventory. 
@@ -107,7 +107,7 @@ The report includes the following analysis views:
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 * **Power BI**
 * **Power Query (ETL)**
@@ -120,7 +120,7 @@ The report includes the following analysis views:
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 
 * Prioritize stock and marketing focus on **Set and Kurta** categories.
 * Strengthen fulfilment operations in top states (**Maharashtra, Karnataka, Telangana, UP, Tamil Nadu**) to reduce unshipped/cancelled orders.
